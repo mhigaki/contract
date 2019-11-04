@@ -1,1 +1,2 @@
 # contract
+Theme Contract
