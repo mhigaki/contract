@@ -1,0 +1,207 @@
+	
+/*
+================================================
+21. Media Quries 
+================================================
+*/
+@media (min-width: 992px) and (max-width: 1200px) {
+.footer-main {
+    padding: 330px 20px 0px 20px;
+}
+.newsletter-form .btn.btn-primary {
+    right: 131px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+.navigation {
+	padding: 0;
+}
+.menu-bg .logo {
+  padding-top: 29px;
+}
+.navbar-toggle {
+  margin-right: 0;
+  margin-top: -34px;
+}
+.navbar-collapse {
+  margin: 6px 0 0;
+}
+.main-header .header-upper .logo-outer{
+width: 100%;
+text-align:center;
+}
+.main-header .info-box{
+margin-bottom: 30px;
+}
+.main-header .logo-outer{
+    padding: 20px 0px;
+}
+.main-header .header-upper .upper-right{
+padding-top:20px;
+}
+.navigation .navbar-collapse {
+	padding: 0;
+}
+.navbar {
+	margin-top:0px;
+}
+.About-section .about-colmun{
+margin-top:20px;
+}
+.we-are-best .we-are-best-content ,we-are-best-features{
+margin-bottom:20px;
+}
+.news .latest-post{
+margin-top:20px;
+min-height:230px;
+}
+.consulting-section .title-column .text{
+text-align:left;
+}
+.consulting-section .form-column {
+padding-top:60px;
+}
+.title .title-box h2{
+font-size: 32px;
+}
+.footer-main {
+    padding: 330px 20px 0px 20px;
+}
+.footer-main .footer-widget.pull{
+float:left;
+}
+.sidebar-gallery li{
+width: 14%;
+}
+}
+@media (max-width: 767px) {
+section h2 {
+	font-size: 25px;
+}
+	.navigation{
+	display:none;
+	}
+	.mobile-nav{
+	display:block;
+	}
+	.navbar-header{
+	display:none;
+	}
+	.tp-caption {
+    padding-left: 30px !important;
+}
+.tp-caption.txt {
+    font-size:14px !important;
+}
+.tp-caption span.txt-sm-s {
+    font-size: 6px !important;
+    padding-right: 10px!important;
+}
+.header-top-area .slicknav_menu{
+    background: transparent;
+    padding: 15px 0px;
+	margin-right:25px;
+}
+.header-top-area .slicknav_nav {
+    background: #333;
+    margin-top: 10px;
+    padding: 10px;
+}
+.header-top-area .slicknav_btn{
+background-color:#fbac02
+}
+.header-top-area .slicknav_nav a:hover, .header-top-area .slicknav_nav a:focus, .header-top-area .slicknav_nav a:active{
+color:#FFFFFF;
+}
+.header-top-area .slicknav_nav a:hover{
+background-color:#fbac02
+}
+.header-top-area .slicknav_nav .slicknav_row{
+padding:8px 10px;
+}
+.header-top-area .slicknav_nav a{
+padding:8px 10px;
+}
+.header-top-area .slicknav_nav .slicknav_arrow{
+float:right;
+}
+.main-header .header-upper .logo-outer{
+width: 100%;
+text-align:center;
+}
+.main-header .info-box{
+margin-bottom: 30px;
+}
+.main-header .logo-outer{
+    padding: 20px 0px;
+}
+.main-header .header-upper .upper-right{
+padding-top:20px;
+}
+.About-section .about-colmun{
+margin-top:20px;
+}
+.section-title h3{
+font-size:30px !important;
+line-height:30px !important;
+}
+.section-title h6{
+font-size:14px;
+}
+.latest-post.post-large .post-title {
+    font-size: 16px;
+    line-height: 18px;
+}
+.we-are-best .we-are-best-content ,we-are-best-features{
+margin-bottom:20px;
+}
+.news .latest-post{
+margin-top:20px;
+min-height:230px;
+}
+.consulting-section .title-column .text{
+text-align:left;
+}
+.consulting-section .form-column {
+padding-top:60px;
+}
+.title .title-box h2{
+font-size: 24px;
+    line-height: 25px;
+}
+.footer-main{
+padding:330px 20px 0px 20px;
+}
+.footer-main .footer-widget.pull{
+float:left;
+}
+
+.footer-main {
+    margin-top: 10px;
+}
+.footer-main .footer-widget.pull{
+float:left;
+}
+.footer-top .footer-box {
+    padding: 10px 30px 10px;
+	}
+}	
+@media (min-width: 266px) and (max-width: 330px) {
+.price_box .price_footer a {
+    padding: 6px 36px;
+	}
+.consulting-section .title-column .text {
+   
+    font-size: 25px;
+}
+.consulting-section .form-column h1 {
+line-height:40px;
+}
+.footer-top .footer-box {
+    padding: 30px 15px 20px;
+	}
+.footer-main{
+padding:360px 20px 0px 20px;
+}
+}
+}
